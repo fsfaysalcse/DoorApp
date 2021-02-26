@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Door</string>
+    <string name="enterusername">Enter username</string>
+    <string name="enterpassword">Enter Password</string>
+    <string name="login">LOGIN</string>
+
+</resources>

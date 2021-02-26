@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "875502582532",
+    "firebase_url": "https://nodemcuc-default-rtdb.firebaseio.com",
+    "project_id": "nodemcuc",
+    "storage_bucket": "nodemcuc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875502582532:android:cd435eb39983a59f202e51",
+        "android_client_info": {
+          "package_name": "com.a.door"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875502582532-2flaspggafpct2672edboik2oebq3iut.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.a.door",
+            "certificate_hash": "e63e85b99954db9568a90f82d5541236a87ccf2e"
+          }
+        },
+        {
+          "client_id": "875502582532-vd0tjbijna0bur9d3bb71fejh4toipfr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvSQpOM0PDYo8goID8ly7qc3Sp-UK_zMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875502582532-vd0tjbijna0bur9d3bb71fejh4toipfr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
